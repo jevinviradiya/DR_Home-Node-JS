@@ -2,7 +2,7 @@
 
 # Included #
 
-# Api's with AuthToken validation
+ Api's with AuthToken validation
 # Make Api's for GET, PUT, DELETE, UPDATE, MultipleDelete
 # use a helper function for code structure Optimizartion and Code Reusability
 # make Dynamic responces for All responces (Like: errResponse, create, send, notFound, serverErr)
